@@ -21,7 +21,7 @@ I'm an analyst based in Mesa, Arizona, with a passion for learning.
 
 ---
 
-* 🔭 I’m currently deciding on my first project.
+* 🔭 I’m currently deciding on my first project. I'd like to do something involving baseball analysis!
 * 🌱 I’m currently learning Python.
 * 😄 Pronouns: He / Him / His
 * ⚡ Fun fact: I enjoy playing the guitar and am working on playing live shows with a band.
