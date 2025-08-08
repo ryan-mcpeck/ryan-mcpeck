@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Ryan
+
+I'm an analyst based in Mesa, Arizona, with a passion for learning.
+
+---
+
+* 🔭 I’m currently deciding on my first project.
+* 🌱 I’m currently learning Python.
+* ⚡ Fun fact: I enjoy playing the guitar and am working on playing live shows with a band.
+
+---
